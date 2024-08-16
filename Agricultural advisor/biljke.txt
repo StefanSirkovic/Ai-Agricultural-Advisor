@@ -1,0 +1,60 @@
+Ime: Krompir
+Tip Zemljista: Crnica
+Potrebna Voda: 5
+Optimalna Temperatura: 10-20C
+Potrebna Svetlost: Srednja
+Sezona Sadnje: Prolece
+Sezona Berbe: Jesen
+Korensko povrce: Da
+Lisnato povrce: Ne
+--------------------------------------------------
+Ime: Paradajz
+Tip Zemljista: Glina
+Potrebna Voda: 7
+Optimalna Temperatura: 15-25C
+Potrebna Svetlost: Niska
+Sezona Sadnje: Jesen
+Sezona Berbe: Prolece
+Korensko povrce: Da
+Lisnato povrce: Ne
+--------------------------------------------------
+Ime: Jagoda
+Tip Zemljista: Crnica
+Potrebna Voda: 8
+Optimalna Temperatura: 20-35C
+Potrebna Svetlost: Visoka
+Sezona Sadnje: Prolece
+Sezona Berbe: Leto
+Tropsko voce: Ne
+Jagodasto voce: Da
+--------------------------------------------------
+Ime: Mango
+Tip Zemljista: Suvo
+Potrebna Voda: 10
+Optimalna Temperatura: 25-40C
+Potrebna Svetlost: Visoka
+Sezona Sadnje: Prolece
+Sezona Berbe: Leto
+Tropsko voce: Da
+Jagodasto voce: Ne
+--------------------------------------------------
+Ime: Jabuka
+Tip Zemljista: Glina
+Potrebna Voda: 4
+Optimalna Temperatura: 10-20C
+Potrebna Svetlost: Srednja
+Sezona Sadnje: Jesen
+Sezona Berbe: Prolece
+Tropsko voce: Ne
+Jagodasto voce: Da
+--------------------------------------------------
+Ime: Kupus
+Tip Zemljista: Ilovaca
+Potrebna Voda: 5
+Optimalna Temperatura: 10-20C
+Potrebna Svetlost: Niska
+Sezona Sadnje: Jesen
+Sezona Berbe: Prolece
+Korensko povrce: Ne
+Lisnato povrce: Da
+--------------------------------------------------

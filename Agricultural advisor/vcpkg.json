@@ -1,0 +1,8 @@
+{
+  "name": "ai-agricultural-advisor",
+  "version": "1.0.0",
+  "dependencies": [
+    "curl-curl",
+    "nlohmann-json"
+  ]
+}
