@@ -31,19 +31,6 @@ To build and run Agricultural Advisor, you need the following:
     ```bash
     vcpkg install
 
-   The required dependencies will be automatically installed based on the vcpkg.json file.
-   Here is an example vcpkg.json file for this project:
-   ```json
-   {
-  "name": "ai-agricultural-advisor",
-  "version": "1.0.0",
-  "dependencies": [
-    "curl-curl",
-    "nlohmann-json"
-  ]
- }
-
-
 3. **Build the project:**
 
     Navigate to the project directory and build the application using your preferred build system (e.g., CMake):
@@ -59,12 +46,17 @@ To build and run Agricultural Advisor, you need the following:
    ```bash
    ./Ai-Agricultural-Advisor
 
-## USAGE
+## Usage
 
-**1. Starting the Application: Launch the application to access the main interface.**
-**2.Input Soil Data: Enter soil data to receive crop recommendations from the AI.**
-**3.Manage Plants: Add new plant entries to the database or search for existing ones using the search feature.**
-**4.Explore AI Features: Utilize additional AI capabilities for enhanced agricultural insights.**
+**1. Open "Source.cpp" file and add your API_KEY
+
+**2. Starting the Application: Launch the application to access the main interface.**
+
+**3.Input Soil Data: Enter soil data to receive crop recommendations from the AI.**
+
+**4.Manage Plants: Add new plant entries to the database or search for existing ones using the search feature.**
+
+**5.Explore AI Features: Utilize additional AI capabilities for enhanced agricultural insights.**
 
 ## Technologies Used
 

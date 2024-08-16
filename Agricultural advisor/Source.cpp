@@ -9,7 +9,7 @@ int main() {
 
     BazaZnanja *baza = new BazaZnanja;
 	int izbor = 0;
-    std::string apiKey = "d37c8fc24b0e417a99db682b625b7bd3"; // api Key
+    std::string apiKey = "YOUR_API_KEY"; // api Key
     std::string endpoint = "https://api.aimlapi.com/v1/chat/completions";
 
     Preporuke gpt(apiKey, endpoint);
