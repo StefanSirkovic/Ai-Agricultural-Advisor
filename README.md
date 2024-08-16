@@ -48,7 +48,7 @@ To build and run Agricultural Advisor, you need the following:
 
 ## Usage
 
-**1. Open "Source.cpp" file and add your API_KEY
+**1. Open "Source.cpp" file and add your API_KEY**
 
 **2. Starting the Application: Launch the application to access the main interface.**
 
