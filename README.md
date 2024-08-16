@@ -52,11 +52,11 @@ To build and run Agricultural Advisor, you need the following:
 
 **2. Starting the Application: Launch the application to access the main interface.**
 
-**3.Input Soil Data: Enter soil data to receive crop recommendations from the AI.**
+**3. Input Soil Data: Enter soil data to receive crop recommendations from the AI.**
 
-**4.Manage Plants: Add new plant entries to the database or search for existing ones using the search feature.**
+**4. Manage Plants: Add new plant entries to the database or search for existing ones using the search feature.**
 
-**5.Explore AI Features: Utilize additional AI capabilities for enhanced agricultural insights.**
+**5. Explore AI Features: Utilize additional AI capabilities for enhanced agricultural insights.**
 
 ## Technologies Used
 
